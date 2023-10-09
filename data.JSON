@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "pregunta": "¿Cuál es el horario de clases?",
+      "respuesta": "El horario de clases es de lunes a viernes de 16:00hs a 22hs. Para informacion mas detallada puedes acercarte a la secretaria de tu facultad"
+    },
+    {
+      "pregunta": "¿Quiénes son los profesores?",
+      "respuesta": "Nuestros profesores son altamente calificados y especializados en sus respectivas áreas con excelente trayectoria."
+    },
+    {
+      "pregunta": "¿Dónde se encuentra la universidad?",
+      "respuesta": "La universidad se encuentra ubicada en Catamarca 137."
+    },
+    {
+      "pregunta": "¿Cómo puedo contactar con la universidad?",
+      "respuesta": "Puedes contactar a la universidad llamando al 261-435789 o enviando un correo a secretaria@uda.com."
+    },
+    {
+      "pregunta": "¿Cuál es la oferta académica?",
+      "respuesta": "Ofrecemos una amplia gama de programas académicos en diferentes áreas de estudio. Carreras como: medicina, abogacia, licenciaturas, marketing, etc. "
+    },
+    {
+      "pregunta": "¿Cuál es el proceso inscripcion?",
+      "respuesta": "El proceso de de inscripcion se realiza de manera presencial y debes acudir a la secretaria de tu facultad. Alli llenaras un formulario de inscripcion, se te pedira documentacion y se te dara de alta en la carrera"
+    }
+  ]
+}
